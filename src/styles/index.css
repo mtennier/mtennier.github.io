@@ -1,2 +1,1 @@
-@import "variables.css";
-@import "antd-overrides.css";
+@import './global/globals.css';

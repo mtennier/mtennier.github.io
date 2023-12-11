@@ -1,0 +1,17 @@
+:root {
+    /* GLOBAL VARS */
+    --global-font-family:Nunito;
+    --global-bg-color:#f4ccb6;
+    --global-primary-color: #f8a172;
+    --global-secondary-color: antiquewhite;
+
+    /* HEADER */
+    --header-height: 100px;
+    --header-bg-color: var(--global-primary-color);
+    --header-font-family:Lora;
+
+    /* FONT */
+    --main-text-color:rgb(3, 50, 3);
+    --secondary-text-color:black;
+
+}

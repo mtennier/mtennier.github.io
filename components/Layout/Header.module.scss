@@ -1,0 +1,31 @@
+.headerContainer{
+    background-color: var(--header-bg-color);
+    width:100%;
+    height: var(--header-height);
+    position:sticky;
+    top:0;
+    box-shadow: 0 -6px 10px 5px rgba(0,0,0,0.5);
+}
+
+.headerText{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    line-height:70px;
+    font-size:40px;
+    font-family:var(--header-font-family);
+    color:var(--main-text-color)
+}
+
+.subHeaderText{
+    width:100%;
+    color:var(--main-text-color);
+    display:flex;
+    justify-content: center;
+}
+
+.subHeaderItem{
+    margin-left: 30px;
+    margin-right: 30px
+}
+

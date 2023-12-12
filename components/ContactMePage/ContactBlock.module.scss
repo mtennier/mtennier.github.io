@@ -1,0 +1,35 @@
+.contactContainer {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  height: 40pc;
+}
+
+.contactBlock {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    border-radius:var(--round-border-radius);
+    background-color: var(--global-secondary-color);
+    width:80%;
+    margin-top:3%;
+    box-shadow: var(--block-shadow);
+    text-align: center;
+}
+
+.headerText{
+    font-size:50px;
+    padding-left:3%;
+}
+
+.divider{
+    display:flex;
+    vertical-align: middle;
+    padding-left:10%;
+}
+
+.contactText{
+    display:inline-block;
+    vertical-align: middle;
+    padding-left:10%;
+}

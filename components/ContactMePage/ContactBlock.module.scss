@@ -1,6 +1,5 @@
 .contactContainer {
   display: grid;
-  margin: 1;
   height: 40pc;
   grid-template-columns: repeat(auto-fit,  25%) ;
   align-items: center;
@@ -24,6 +23,11 @@
     display:flex;
     font-size:larger;
     color:var(--main-text-color);
+}
+
+.linkedInLink{
+    color:inherit;
+    text-decoration: underline;
 }
 
 .contactInfoBlock{

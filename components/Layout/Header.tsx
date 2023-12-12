@@ -14,7 +14,10 @@ return (<>
             contact
         </span>
         <span className={styles.subHeaderItem}>
-            personal
+            resume
+        </span>
+        <span className={styles.subHeaderItem}>
+            personal work
         </span>
     </div>
 </div>

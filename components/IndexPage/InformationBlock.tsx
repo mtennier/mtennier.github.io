@@ -6,10 +6,10 @@ const InformationBlock = () => {
     return (
         <div className={styles.informationContainer}>
             <div className={styles.informationText}>
-                <h1 className = {styles.headerText}>About Me</h1>
-                <div className = {styles.divider}>
-                <Divider style={{paddingBottom:0, paddingTop:0}}/>
-                </div>
+                <h1 className = {styles.headerText}>
+                    About Me
+                </h1>
+                <Divider style={{paddingBottom:-1, paddingTop:-1}}/>
             <p>
                 hi :)
             </p>

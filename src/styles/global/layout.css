@@ -10,3 +10,7 @@
     background-color: var(--global-bg-color);
     font-family:var(--global-font-family);
   }
+  h1{
+    font-family:var(--header-font-family);
+    font-weight:normal;
+  }

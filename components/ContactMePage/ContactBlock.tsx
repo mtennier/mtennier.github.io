@@ -17,7 +17,7 @@ const ContactBlock = () => {
                      </p>
                      <br />
                      <p>
-                        My LinkedIn can be found <a target='_blank' href='//www.linkedin.com/in/madeline-tennier-067392233' rel='noreferrer'>here</a>.
+                        My LinkedIn can be found <a target='_blank' href='//www.linkedin.com/in/madeline-tennier-067392233' rel='noreferrer' className={styles.linkedInLink}>here</a>.
                      </p>
                      <br />
                      <p>

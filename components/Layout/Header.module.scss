@@ -14,7 +14,7 @@
     line-height:70px;
     font-size:40px;
     font-family:var(--header-font-family);
-    color:var(--main-text-color)
+    color:var(--main-text-color);
 }
 
 .subHeaderText{
@@ -29,3 +29,15 @@
     margin-right: 30px
 }
 
+.headerLink {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+.subHeaderLink {
+    color: inherit;
+    text-decoration: inherit;
+    &:hover{
+        text-decoration: underline;
+    }
+}

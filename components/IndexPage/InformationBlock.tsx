@@ -1,11 +1,15 @@
 import styles from './InformationBlock.module.scss'
+import {Divider} from 'antd'
 
-// TODO: make this more dynamic (?)
 const InformationBlock = () => {
 
     return (
         <div className={styles.informationContainer}>
             <div className={styles.informationText}>
+                <h1 className = {styles.headerText}>About Me</h1>
+                <div className = {styles.divider}>
+                <Divider style={{paddingBottom:0, paddingTop:0}}/>
+                </div>
             <p>
                 hi :)
             </p>

@@ -21,7 +21,9 @@ return (<>
             </Link>
         </span>
         <span className={styles.subHeaderItem}>
+            <a href={'/resume/resume.pdf'} download='madeline_tennier_resume' className={styles.subHeaderLink}>
             resume
+            </a>
         </span>
         <span className={styles.subHeaderItem}>
             personal work

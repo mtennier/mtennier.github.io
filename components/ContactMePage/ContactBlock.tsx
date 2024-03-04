@@ -25,7 +25,7 @@ const ContactBlock = () => {
                      </p>
                      <br />
                      <p>
-                        If youre looking for my resume, you can find it in the header above - 
+                        If you're looking for my resume, you can find it in the header above - 
                         my github is also there!
                      </p>
                      <br />

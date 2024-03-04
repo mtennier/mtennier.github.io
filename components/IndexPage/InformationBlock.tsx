@@ -11,43 +11,53 @@ const InformationBlock = () => {
                 </h1>
                 <Divider style={{paddingBottom:-1, paddingTop:-1}}/>
             <p>
-                hi :)
+                Hi! :)
             </p>
             <br />
             <p>
-                my name is maddie and i am a software engineer.
+                My name is Maddie and I'm a software engineer.
             </p>
             <p>
-            i'm a dual citizen: i was born in the united states to canadian parents.
-            </p>
-            <br />
-            <p>
-                i went to high school in upstate new york. i first learnt to code when i was 15 - i learnt
-                basic coding concepts in C++ and also doing a bit of basic web development. i found 
-                i loved to code and decided to pursue it as a career!
+                I'm a dual citizen: I was born in the United States to Canadian parents.
             </p>
             <br />
             <p>
-            after graduating high school, i went to the west coast of Canada to get my computer
-            science degree at the University of Victoria.
+                I grew up in and went to high school in upstate New York. I first learnt to code there when I was 15 - 
+                I learnt basic coding concepts in C++ and also doing a bit of basic web development. 
+                I found I loved to code, had a bit of a knack for it, and decided to pursue it as a career!
             </p>
             <br />
             <p>
-                during my time there, i worked multiple coops - one working with arduinos, and
-                the other doing full-stack web development - front end, back end, and databases.
+                After graduating high school, I went to the west coast of Canada to get my computer
+                science degree at the University of Victoria. I did a lot of work in different areas:
+                operating systems, databases, networking, and data structures. I worked in a lot of different
+                languages too - Python, Java, and C mostly.
             </p>
             <br />
             <p>
-            while taking classes, i worked as a teaching assistant for the introductory coding class,
-            teaching students how to use python. i also served as an executive member for 
-            a club for women in STEM - my responsibilites were to host weekly meetings, 
-            and i also lead review sessions in C, java, and python.
+                During my time in university, I worked multiple coops. One I worked with
+                a proof of concept for a nature sanctuary. I wrote code on an ESP8266 
+                to allow it to act as a trail counter, using the MAC addresses of cell
+                phone ping requests to count how many people are in a given area.
+                My other coop I did full stack web development. I mostly focused on the front end, updating
+                our customer-facing website using Next.js, but I also did work on the back end using GO
+                and database work too using SQL.
             </p>
             <br />
             <p>
-                in my free time, i love to knit! i've knit scarves, sweaters, and beanies, and i love
-                to do cables! i also love to lift weights - i've been doing it for about 2 years now, 
-                and i love the way it makes me feel!
+                While taking classes, I worked as a teaching assistant for the introductory coding class
+                at UVIC, CSC110. I taught students who had never coded before how to code, how basic
+                coding concepts such as loops and conditionals worked, invigilated exams, 
+                and also marked hundreds homeworks and exam submissions in 1-2 days to meet deadlines. 
+                I also served as an executive member for a club for women in STEM - My responsibilites were 
+                to host weekly meetings, and I also met with profs to create review session material, and
+                also lead review sessions in C, Java, and Python.
+            </p>
+            <br />
+            <p>
+                In my free time, I love to knit! I've knit scarves, sweaters, and beanies, and I love
+                to do cables! I also love to lift weights - I've been doing it for about 2 years now, 
+                and I love the way it makes me feel!
             </p>
             </div>
         </div>

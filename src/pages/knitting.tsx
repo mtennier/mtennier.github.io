@@ -4,15 +4,15 @@
 
 
 
-// export default function Knitting({ photos }: {photos:any}) {
-//   const images = JSON.parse(photos);
-//   return (
-//     <>
-//       <p>knitting</p>
-//       <PhotoGallery images={images} />
-//     </>
-//   );
-// }
+export default function Knitting() {
+  // const images = JSON.parse(photos);
+  return (
+    <>
+      <p>knitting</p>
+      {/* <PhotoGallery images={images} /> */}
+    </>
+  );
+}
 
 // // Function to retrieve photos.
 // export async function getStaticProps() {

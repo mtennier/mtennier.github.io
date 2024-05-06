@@ -2,7 +2,9 @@ import { promises as fs } from "fs";
 import path from "path";
 import PhotoGallery from "../../components/PhotoGallery/PhotoGallery";
 
-export default function Knitting({ photos }) {
+
+
+export default function Knitting({ photos }: {photos:any}) {
   const images = JSON.parse(photos);
   return (
     <>

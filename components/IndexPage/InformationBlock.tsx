@@ -24,14 +24,14 @@ const InformationBlock = () => {
             <p>
                 I grew up in and went to high school in upstate New York. I first learnt to code there when I was 15 - 
                 I learnt basic coding concepts in C++ and also doing a bit of basic web development. 
-                I found I loved to code, had a bit of a knack for it, and decided to pursue it as a career!
+                I found I loved to code, and decided to pursue it as a career!
             </p>
             <br />
             <p>
                 After graduating high school, I went to the west coast of Canada to get my computer
                 science degree at the University of Victoria. I did a lot of work in different areas:
                 operating systems, databases, networking, and data structures. I worked in a lot of different
-                languages too - Python, Java, and C mostly.
+                languages too - Python, Java, and C.
             </p>
             <br />
             <p>
@@ -46,18 +46,17 @@ const InformationBlock = () => {
             <br />
             <p>
                 While taking classes, I worked as a teaching assistant for the introductory coding class
-                at UVIC, CSC110. I taught students who had never coded before how to code, how basic
-                coding concepts such as loops and conditionals worked, invigilated exams, 
-                and also marked hundreds homeworks and exam submissions in 1-2 days to meet deadlines. 
+                at UVIC, CSC110. I taught students who had never coded before how to code, including
+                coding concepts such as loops and conditionals worked. I also invigilated exams, 
+                and also marked hundreds homeworks and exam submissions. 
                 I also served as an executive member for a club for women in STEM - My responsibilites were 
                 to host weekly meetings, and I also met with profs to create review session material, and
                 also lead review sessions in C, Java, and Python.
             </p>
             <br />
             <p>
-                In my free time, I love to knit! I've knit scarves, sweaters, and beanies, and I love
-                to do cables! I also love to lift weights - I've been doing it for about 2 years now, 
-                and I love the way it makes me feel!
+                In my free time, I love to knit! I also love to lift weights - I've been doing it for about 2 years now, 
+                and I love the way it makes me feel! I've been trying to get into running too.
             </p>
             </div>
         </div>
